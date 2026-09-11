@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hola, soy Osi 👋
 
-<!--
-**osi-web/osi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web en **Mar del Plata, Argentina** 🇦🇷. Diseño y programo webs, tiendas online, menús QR, sistemas de gestión e integraciones con IA para negocios y marcas — de punta a punta, una sola persona.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://osiweb.com.ar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos en vivo**
+
+🛒 Precios Justos MDP — transparencia de precios de la canasta básica, con datos oficiales y PWA · https://preciosjustosmdp.com.ar
+
+🍽️ Brasa & Costa — demo de menú QR con pedido en vivo a la cocina + asistente de IA · https://brasaycosta.web.app
+
+🌊 La Feliz — portal ciudadano de Mar del Plata, con el mar y el clima en tiempo real · https://la-feliz-mdp.web.app
+
+**Con qué trabajo**
+
+HTML · CSS · JavaScript · Firebase · PWA · Next.js (aprendiendo)
+
+**Contacto**
+
+Por WhatsApp o mail desde el portfolio → https://osiweb.com.ar
